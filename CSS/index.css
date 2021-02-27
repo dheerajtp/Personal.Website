@@ -1,0 +1,39 @@
+.dp-nav-text{
+    color:#100E34;
+}
+
+ul:hover{
+    color:#4F48EC;
+}
+
+.dp-sn-h{
+    height: 80vh;
+    overflow: auto;
+}
+.dp-sn-l{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.dp-typewrite-js{
+    font-size: 2em;
+}
+.dp-rig-txt{
+    font-size: 2em;
+}
+.dp-btn-l{
+    color:#100E34;
+}
+.dp-who-l{
+    font-size: 1.4em;
+}
+.dp-img{
+    height: 30em;
+}
+.dp-footer{
+    background-color: #0f1123;;
+}
+.dp-f-w{
+    height: 3em;
+}

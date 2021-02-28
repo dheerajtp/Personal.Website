@@ -1,4 +1,4 @@
-**#My Personal Website**
+**My Personal Website**
 
 A Responsive Personal Website Created Using HTML, CSS, Bootstrap and JavaScript.
 
@@ -9,4 +9,4 @@ A Responsive Personal Website Created Using HTML, CSS, Bootstrap and JavaScript.
 [getform.io](https://getform.io/)
 
 **Screen Shot**
-![Dheeraj TP |My Personal Website][https://i.ibb.co/p4ChxS9/Dheeraj-TP-My-Personal-Website.png]
+![Dheeraj TP |My Personal Website](https://i.ibb.co/p4ChxS9/Dheeraj-TP-My-Personal-Website.png)
